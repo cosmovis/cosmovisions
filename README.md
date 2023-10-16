@@ -1,1 +1,1 @@
-# cosmovis.github.io
+# Cosmovisions
